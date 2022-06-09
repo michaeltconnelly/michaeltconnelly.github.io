@@ -1,0 +1,17 @@
+---
+title: "Research"
+---
+
+I am a molecular marine biologist that is broadly interested in how microbial symbioses affect the ecology, evolution and diversification of marine invertebrates. I am especially fascinated with reef-building corals in the genus Pocillopora because of their ecological importance, large geographic distribution, and complex microbial symbioses.
+
+Photo: Different Pocillopora color morphs at Isla San Pedro in the Gulf of Panama
+
+My current postdoctoral research on Pocillopora corals is using genomics technologies to delimit Pocillopora species and re-assess the morphology-based taxonomy for this important coral genus, focusing first on the eastern tropical Pacific (ETP) region.
+
+Photo: SI BioG project figure
+
+Other current research projects:
+
+Physiology and transcriptome responses of Pocillopora corals to antibiotic microbiome suppression
+Genomic species delimitation of Pocillopora corals in the eastern tropical Pacific of Panama
+Meta-analysis of Pocillopora RNAseq datasets in the NCBI SRA

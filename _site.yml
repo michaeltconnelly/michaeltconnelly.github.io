@@ -1,0 +1,9 @@
+name: "Michael T. Connelly"
+navbar:
+  title: "Michael T. Connelly"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.Rmd
+output_dir: "."

@@ -7,3 +7,6 @@ navbar:
     - text: "Research"
       href: research.html
 output_dir: "."
+output:
+  html_document:
+    theme: cerulean

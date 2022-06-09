@@ -15,3 +15,5 @@ Other current research projects:
 Physiology and transcriptome responses of Pocillopora corals to antibiotic microbiome suppression
 Genomic species delimitation of Pocillopora corals in the eastern tropical Pacific of Panama
 Meta-analysis of Pocillopora RNAseq datasets in the NCBI SRA
+
+![](./images/Pocillopora_Outlet.jpg)

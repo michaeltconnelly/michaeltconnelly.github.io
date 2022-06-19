@@ -2,18 +2,30 @@
 title: "Research"
 ---
 
-I am a molecular marine biologist that is broadly interested in how microbial symbioses affect the ecology, evolution and diversification of marine invertebrates. I am especially fascinated with reef-building corals in the genus Pocillopora because of their ecological importance, large geographic distribution, and complex microbial symbioses.
+### Overview
+I am a molecular marine biologist that is broadly interested in how microbial symbioses affect the ecology, evolution and diversification of marine invertebrates. I am especially fascinated with reef-building corals in the genus *Pocillopora* because of their ecological importance, large geographic distribution, and complex microbial symbioses.
 
-Photo: Different Pocillopora color morphs at Isla San Pedro in the Gulf of Panama
+![Different *Pocillopora* color morphs at Isla San Pedro in the Gulf of Panama](./images/Pocillopora_SanPEdro_Morphs.JPG)
 
-My current postdoctoral research on Pocillopora corals is using genomics technologies to delimit Pocillopora species and re-assess the morphology-based taxonomy for this important coral genus, focusing first on the eastern tropical Pacific (ETP) region.
+***  
 
-Photo: SI BioG project figure
+### Smithsonian Biodiversity Genomics Fellowship research project
+My current postdoctoral research on *Pocillopora* corals is using genomics technologies to delimit Pocillopora species and re-assess the morphology-based taxonomy for this important coral genus, focusing first on the eastern tropical Pacific (ETP) region.
 
-Other current research projects:
+I am working between the Smithsonian National Museum of Natural History ([NMNH](https://naturalhistory.si.edu/)) Invertebrate Zoology ([IZ](https://naturalhistory.si.edu/research/invertebrate-zoology)) department's [Coral Lab](https://naturalhistory.si.edu/research/invertebrate-zoology/research/quattrini-lab) and the Smithsonian Tropical Research Institute ([STRI](https://stri.si.edu/)).
 
-Physiology and transcriptome responses of Pocillopora corals to antibiotic microbiome suppression
-Genomic species delimitation of Pocillopora corals in the eastern tropical Pacific of Panama
-Meta-analysis of Pocillopora RNAseq datasets in the NCBI SRA
+![The Smithsonian's research platform in Panama and Washington are key for this project.](./images/SI_platform.JPG)
 
-![](./images/Pocillopora_Outlet.JPG)
+***  
+
+### Ph.D. research
+I completed my Ph.D. at the [University of Miami]() Rosenstiel School of Marine and Atmospheric Science ([RSMAS]()), working in the [Cnidarian Immunity Laboratory]() with Dr. Nikki Traylor-Knowles as my Ph.D. advisor. 
+
+![*Pocillopora acuta* colonies at Outlet Reef near Kenting, Taiwan](./images/Pocillopora_Outlet.JPG)
+
+***  
+
+### Other current research projects:
+* Physiology and transcriptome responses of *Pocillopora* corals to antibiotic microbiome suppression
+* Genomic species delimitation of *Pocillopora* corals in the eastern tropical Pacific of Panama
+* Meta-analysis of *Pocillopora* RNAseq datasets in the NCBI SRA

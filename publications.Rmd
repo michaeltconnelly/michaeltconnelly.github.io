@@ -1,8 +1,9 @@
 ---
 title: "Publications"
 ---
+***
 
-**Published:**
+### Published:
 
 Connelly, M.T., McRae, C.J., Liu, P.J., Martin, C.E. and Traylor-Knowles, N.T. (2022) “Antibiotics Alter Pocillopora Coral-Symbiodiniaceae-Bacteria Interactions and Cause Microbial Dybiosis During Heat Stress” Frontiers in Marine Science [Link](https://doi.org/10.3389/fmars.2021.814124)
 

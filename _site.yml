@@ -1,15 +1,24 @@
 name: "Michael T. Connelly"
 navbar:
-  title: "Michael T. Connelly"
+  title: "Michael T. Connelly, Ph.D."
   left:
     - text: "Home"
       href: index.html
     - text: "Research"
-      href: research.html
-    - text: "Publications"
-      href: publications.html 
+      menu:
+        - text: "Projects"
+          href: projects.html
+        - text: "Presentations"
+          href: presentations.html
+        - text: "Publications"
+          href: publications.html
+    - text: "CV"
+      href: cv.html
     - text: "Contact"
       href: contact.html
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/michaeltconnelly
 output_dir: "."
 output:
   html_document:

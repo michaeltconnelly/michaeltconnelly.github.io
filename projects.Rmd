@@ -1,0 +1,29 @@
+---
+title: "Research Projects"
+output:  
+  html_document:  
+    toc: true  
+    toc_float: true  
+---
+***
+
+### Smithsonian Biodiversity Genomics Fellowship
+My current postdoctoral research on *Pocillopora* corals is using genomics technologies to delimit Pocillopora species and re-assess the morphology-based taxonomy for this important coral genus, focusing first on the eastern tropical Pacific (ETP) region.
+
+I am working between the Smithsonian National Museum of Natural History ([NMNH](https://naturalhistory.si.edu/)) Invertebrate Zoology ([IZ](https://naturalhistory.si.edu/research/invertebrate-zoology)) department's [Coral Lab](https://naturalhistory.si.edu/research/invertebrate-zoology/research/quattrini-lab) and the Smithsonian Tropical Research Institute ([STRI](https://stri.si.edu/)).
+
+![The Smithsonian's research platform in Panama and Washington are key for this project.](./images/SI_platform.JPG)
+
+***  
+
+### Ph.D. research on *Pocillopora* host-microbe interactions
+I completed my Ph.D. at the [University of Miami]() Rosenstiel School of Marine and Atmospheric Science ([RSMAS]()), working in the [Cnidarian Immunity Laboratory]() with Dr. Nikki Traylor-Knowles as my Ph.D. advisor. 
+
+![*Pocillopora acuta* colonies at Outlet Reef near Kenting, Taiwan](./images/Pocillopora_Outlet.JPG)
+
+***  
+
+### Other current projects
+* Physiology and transcriptome responses of *Pocillopora* corals to antibiotic microbiome suppression [GitHub Link](https://github.com/michaeltconnelly/coral_antibiotics_physiology)
+* Meta-analysis of *Pocillopora* RNAseq datasets in the NCBI SRA [GitHub Link](https://github.com/michaeltconnelly/MetaPocillopora)
+* Genomic species delimitation of *Pocillopora* corals in the eastern tropical Pacific of Panama

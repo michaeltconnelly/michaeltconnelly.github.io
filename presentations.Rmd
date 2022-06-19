@@ -1,0 +1,24 @@
+---
+title: "Presentations"
+output:  
+  html_document:  
+    toc: false  
+    toc_float: false  
+---
+***
+
+### Conference Presentations
+
+  * Smithsonian Tropical Microbial Ecology Symposium
+  
+***
+
+### Public Audience Presentations
+
+  * Subtropical Experiments 
+  
+  * 3-Minute Thesis  
+  
+  * Smithsonian Science Cafe  
+  
+

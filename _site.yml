@@ -9,4 +9,4 @@ navbar:
 output_dir: "."
 output:
   html_document:
-    theme: cerulean
+    theme: "default"

@@ -16,4 +16,4 @@ Physiology and transcriptome responses of Pocillopora corals to antibiotic micro
 Genomic species delimitation of Pocillopora corals in the eastern tropical Pacific of Panama
 Meta-analysis of Pocillopora RNAseq datasets in the NCBI SRA
 
-![](./images/Pocillopora_Outlet.jpg)
+![](./images/Pocillopora_Outlet.JPG)

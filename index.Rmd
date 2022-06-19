@@ -1,13 +1,13 @@
 ---
-title: "Michael T. Connelly"
+title: "Michael T. Connelly, Ph.D."
 ---
 
-Hello world, this is the personal website for Michael T. Connelly, Ph.D. 
+<img align="right" src="./images/Mike_3MT_headshot.JPG" width="350" alt="Miami 2020">  
 
-<img align="left" src="./images/Mike_3MT_headshot.JPG" width="300" alt="Miami 2020">  
-
-Welcome! My name is Mike Connelly, and I study coral evolution and host-microbe interactions to help support coral reef conservation and restoration efforts. I am currently a Biodiversity Genomics postdoctoral fellow at the Smithsonian Institution (SI), and I work between the National Museum of Natural History (NMNH) in Washington, D.C. and the Smithsonian Tropical Research Institute (STRI) in Panamá to study the evolution and microbial symbiosis ecology of Pocillopora corals.
-
-
+### About me
+**Hello, and welcome!** My name is Mike Connelly, and I study coral evolution and host-microbe interactions to help support coral reef conservation and restoration efforts. 
+I am currently a Biodiversity Genomics postdoctoral fellow at the Smithsonian Institution (SI), and I work between the National Museum of Natural History (NMNH) in Washington, D.C. and the Smithsonian Tropical Research Institute (STRI) in Panamá to study the evolution and microbial symbiosis ecology of *Pocillopora* corals.
 
 ![](./images/Champion_Green_Pocillopora.JPG)
+
+

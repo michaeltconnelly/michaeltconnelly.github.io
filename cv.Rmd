@@ -1,3 +1,22 @@
 ---
 title: "CV"
 ---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
+if (!require(librarian)){
+  install.packages("librarian")
+  library(librarian)
+}
+shelf(
+  htmltools, mitchelloharawild/icons)
+# icons::download_fontawesome()
+# devtools::load_all("~/github/bbest/icons")
+# icons::download_octicons()
+library(rmarkdown)
+```
+
+```{r, echo=FALSE, out.width="100%", out.height="1000px"}
+knitr::include_graphics("./pdfs/MichaelConnelly_CV.pdf")
+```

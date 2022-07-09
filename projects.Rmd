@@ -8,16 +8,20 @@ output:
 ***
 
 ### Smithsonian Biodiversity Genomics Fellowship
-My current postdoctoral research on *Pocillopora* corals is using genomics technologies to delimit Pocillopora species and re-assess the morphology-based taxonomy for this important coral genus, focusing first on the eastern tropical Pacific (ETP) region.
+My current postdoctoral research is using genomic methods to delimit *Pocillopora* coral species and re-assess the morphology-based taxonomy for this important and widespread coral genus, focusing first on the eastern tropical Pacific (ETP) region. I am working between the [National Museum of Natural History (NMNH)](https://naturalhistory.si.edu/) in the [Invertebrate Zoology (IZ)](https://naturalhistory.si.edu/research/invertebrate-zoology) department's [Coral Lab](https://naturalhistory.si.edu/research/invertebrate-zoology/research/quattrini-lab) and the [Smithsonian Tropical Research Institute (STRI)](https://stri.si.edu/).
 
-I am working between the Smithsonian National Museum of Natural History ([NMNH](https://naturalhistory.si.edu/)) Invertebrate Zoology ([IZ](https://naturalhistory.si.edu/research/invertebrate-zoology)) department's [Coral Lab](https://naturalhistory.si.edu/research/invertebrate-zoology/research/quattrini-lab) and the Smithsonian Tropical Research Institute ([STRI](https://stri.si.edu/)).
+![**Smithsonian research facilities at STRI and NMNH.** The STRI Naos Island Marine Lab grants access to coral monitoring sites in the eastern Pacific, and the NMNH IZ department has an immense specimen collection and cutting-edge molecular laboratories.](./images/SI_platform.JPG)
 
-![The Smithsonian's research platform in Panama and Washington are key for this project.](./images/SI_platform.JPG)
+The Smithsonian's research platform in Panamá and Washington are key for this project. The [Naos Marine & Molecular Laboratories](https://stri.si.edu/facility/naos) are an excellent launch point to several field sites in the ETP that span a gradient of seasonal wind-driven upwelling from Isla Coiba in the Gulf of Chiriquí to Isla Saboga in the Gulf of Panamá. Field-collected *Pocillopora* coral samples from these sites have been transported to the NMNH for genomic and morphometric species delimitation analyses and comparisons to historical *Pocillopora* specimens in the IZ department collections. 
+
+![**Project summary.** (**A**) The *Pocillopora* coral holobiont comprises the coral host and symbiotic algae and bacteria, some of which are transmitted between host generations. (**B**) Phylosymbiosis occurs when the relationships between symbiotic microbial communities recapitulate host phylogenetic relationships. 
+(**C**) Coral branch morphology and corallite microstructure for three *Pocillopora* species last revised in Schmidt-Roach et al. (2014), correspondence between genetics and morphological characters has not been assessed for the eight morphospecies that are present in Panamá. (**D**) Location of STRI coral monitoring sites in the Gulf of Chiriquí and Gulf of Panamá. (**E**) Locations and numbers of preserved Pocillopora coral specimens in the NMNH Invertebrate Zoology collections. 
+](./images/Figure1_SIFP.JPG)
 
 ***  
 
 ### Ph.D. research on *Pocillopora* host-microbe interactions
-I completed my Ph.D. at the [University of Miami]() Rosenstiel School of Marine and Atmospheric Science ([RSMAS]()), working in the [Cnidarian Immunity Laboratory]() with Dr. Nikki Traylor-Knowles as my Ph.D. advisor. 
+I completed my Ph.D. at the University of Miami [Rosenstiel School of Marine and Atmospheric Science](https://www.rsmas.miami.edu/) (RSMAS), working in the [Cnidarian Immunity Laboratory](https://cnidimmunitylab.com/) with Dr. Nikki Traylor-Knowles as my Ph.D. advisor. 
 
 ![*Pocillopora acuta* colonies at Outlet Reef near Kenting, Taiwan](./images/Pocillopora_Outlet.JPG)
 

@@ -1,6 +1,7 @@
 ---
 title: "Contact Information"
 ---
+***
 
 * SI Email:       connellym@si.edu  
 
@@ -8,4 +9,6 @@ title: "Contact Information"
 
 Please reach out with any questions, I'm always happy to connect!
 
-![*Pocillopora* colonies growing in the lagoon at Concha y Perla, Isla Isabela, Galápagos](./images/Pocillopora_Concha.JPG)
+***
+
+![***Pocillopora* corals are widespread.** *Pocillopora* colonies growing in the lagoon at Concha y Perla, Isla Isabela, Galápagos.](./images/Pocillopora_Concha.JPG)

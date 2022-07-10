@@ -18,16 +18,23 @@ The Smithsonian's research platform in Panamá and Washington are key for this p
 (**C**) Coral branch morphology and corallite microstructure for three *Pocillopora* species last revised in Schmidt-Roach et al. (2014), correspondence between genetics and morphological characters has not been assessed for the eight morphospecies that are present in Panamá. (**D**) Location of STRI coral monitoring sites in the Gulf of Chiriquí and Gulf of Panamá. (**E**) Locations and numbers of preserved Pocillopora coral specimens in the NMNH Invertebrate Zoology collections. 
 ](./images/Figure1_SIFP.JPG)
 
+My hope is that an improved taxonomy of these critical coral species will be a valuable resource for scientists studying coral reef species distributions and interactions in marginal ecosystems and will reveal the fundamental co-evolutionary processes that help generate coral species diversity in other eco-regions.
+
 ***  
 
 ### Ph.D. research on *Pocillopora* host-microbe interactions
 I completed my Ph.D. at the University of Miami [Rosenstiel School of Marine and Atmospheric Science](https://www.rsmas.miami.edu/) (RSMAS), working in the [Cnidarian Immunity Laboratory](https://cnidimmunitylab.com/) with Dr. Nikki Traylor-Knowles as my Ph.D. advisor. 
 
-![*Pocillopora acuta* colonies at Outlet Reef near Kenting, Taiwan](./images/Pocillopora_Outlet.JPG)
+During my Ph.D. I completed an NSF East Asia and Pacific Summer Institutes (EAPSI) fellowship in Taiwan, where I studied *Pocillopora* coral gene expression and bacteria community shifts in response to experimental treatments with bacteria lipopolysaccharide, antibiotics, and heat stress that were intended to disrupt normal host-bacteria interactions. The publications that resulted from these experiments can be found [here](https://doi.org/10.1016/j.dci.2020.103717) and [here](https://doi.org/10.3389/fmars.2021.814124).
+
+![**NSF EAPSI corals and sites.** *Pocillopora acuta* colonies at Outlet reef (top) and Wanglitung reef (bottom) near Kenting, Taiwan.](./images/EAPSI_Corals_Sites.JPG)
+
+I also was involved in projects funded by the Florida Department of Environmental Protection that investigated the gene expression of diverse Caribbean coral species in response to infection with the Stony Coral Tissue Loss Disease (SCTLD), the results of which are published [here](https://doi.org/10.3389/fmars.2021.681563).
 
 ***  
 
 ### Other current projects
-* Physiology and transcriptome responses of *Pocillopora* corals to antibiotic microbiome suppression [GitHub Link](https://github.com/michaeltconnelly/coral_antibiotics_physiology)
-* Meta-analysis of *Pocillopora* RNAseq datasets in the NCBI SRA [GitHub Link](https://github.com/michaeltconnelly/MetaPocillopora)
+* Physiology and transcriptome responses of *Pocillopora* corals to antibiotic microbiome suppression - [GitHub Link](https://github.com/michaeltconnelly/coral_antibiotics_physiology)
+* Meta-analysis of *Pocillopora* RNAseq datasets in the NCBI SRA - [GitHub Link](https://github.com/michaeltconnelly/MetaPocillopora)
 * Genomic species delimitation of *Pocillopora* corals in the eastern tropical Pacific of Panama
+* Coral conservation genetics for reef restoration workshop, in partnership with [Raising Coral Costa Rica](https://www.raisingcoral.org/) - [Course Website](https://michaeltconnelly.github.io/RaisingCoral_CoralGeneticsWorkshop_2022/)

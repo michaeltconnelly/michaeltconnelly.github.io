@@ -16,6 +16,8 @@ navbar:
       href: cv.html
     - text: "Contact"
       href: contact.html
+    - icon: fa-rocket
+      href: projectupdates.html
   right:
     - icon: fa-github fa-lg
       href: https://github.com/michaeltconnelly

@@ -6,4 +6,4 @@ output:
     toc_float: true  
 ---
 
-<p><script src="https://embed.github.com/view/3d/michaeltconnelly/michaeltconnelly.github.io/3dmodels/USNM_1260495_top MichaelConnelly.stl"> </script></p>
+<script src="https://embed.github.com/view/3d/michaeltconnelly/michaeltconnelly.github.io/3dmodels/USNM_1260495_top MichaelConnelly.stl"></script>

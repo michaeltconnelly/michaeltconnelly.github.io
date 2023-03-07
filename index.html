@@ -8,12 +8,20 @@
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3F26P0RLC5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-3F26P0RLC5');
+</script>
 
 
 <title>Michael T. Connelly, Ph.D.</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -143,11 +151,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -176,8 +188,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -185,16 +197,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -315,23 +320,50 @@ $(document).ready(function () {
 
 
 <hr />
-<p><img align="right" src="images/Mike_3MT_headshot_thumbnail.JPG" width="200" alt="Miami 2020"></p>
+<p><img src="images/Mike_3MT_headshot_thumbnail.JPG" alt="Miami 2020" align="right" width="200"/></p>
 <div id="about-me" class="section level3">
 <h3>About me</h3>
-<p><strong>Hello, and welcome!</strong> My name is Mike Connelly, and I study coral evolution and host-microbe interactions to help support coral reef conservation and restoration efforts. I am currently a Biodiversity Genomics postdoctoral fellow at the Smithsonian Institution (SI), and I work between the <a href="https://naturalhistory.si.edu/">National Museum of Natural History (NMNH)</a> in Washington, D.C. and the <a href="https://stri.si.edu/">Smithsonian Tropical Research Institute (STRI)</a> in Panamá to study the evolution and microbial symbiosis ecology of <em>Pocillopora</em> corals in the eastern tropical Pacific (ETP).</p>
+<p><strong>Hello, and welcome!</strong> My name is Mike Connelly, and I
+study coral evolution and host-microbe interactions to help support
+coral reef conservation and restoration efforts. I am currently a
+Biodiversity Genomics postdoctoral fellow at the Smithsonian Institution
+(SI), and I work between the <a
+href="https://naturalhistory.si.edu/">National Museum of Natural History
+(NMNH)</a> in Washington, D.C. and the <a
+href="https://stri.si.edu/">Smithsonian Tropical Research Institute
+(STRI)</a> in Panamá to study the evolution and microbial symbiosis
+ecology of <em>Pocillopora</em> corals in the eastern tropical Pacific
+(ETP).</p>
 <div class="figure">
 <img src="images/Champion_Green_Pocillopora.JPG" alt="" />
-<p class="caption"><strong><em>Pocillopora</em> corals are dominant in the ETP</strong>. A single large <em>Pocillopora</em> colony growing on Isla Champion in the Galápagos, Ecuador.</p>
+<p class="caption"><strong><em>Pocillopora</em></strong> <strong>corals
+are dominant in the ETP</strong>. A single large <em>Pocillopora</em>
+colony growing on Isla Champion in the Galápagos, Ecuador.</p>
 </div>
 <hr />
 </div>
 <div id="research-interests" class="section level3">
 <h3>Research interests</h3>
-<p>I am a molecular marine biologist that is broadly interested in how microbial symbioses affect the ecology, evolution and diversification of marine invertebrates. I am especially interested in how these host-microbe interactions affect the ecology, evolution, and biodiversity of tropical coral reefs and deep-sea coral ecosystems.</p>
-<p>In particular, I am fascinated by scleractinian corals in the genus <em>Pocillopora</em> because of their ecological importance, large geographic distribution, and complex microbial symbioses. My current research is using genomics and morphometrics to resolve the species-level systematics of this important coral genus, and then will use metagenomics to assess signatures of host-microbe coevolution among <em>Pocillopora</em> corals and their associated algal and bacterial symbiont communities. To learn more, please visit the <a href="https://michaeltconnelly.github.io/projects.html">Projects</a> page.</p>
+<p>I am a molecular marine biologist that is broadly interested in how
+microbial symbioses affect the ecology, evolution and diversification of
+marine invertebrates. I am especially interested in how these
+host-microbe interactions affect the ecology, evolution, and
+biodiversity of tropical coral reefs and deep-sea coral ecosystems.</p>
+<p>In particular, I am fascinated by scleractinian corals in the genus
+<em>Pocillopora</em> because of their ecological importance, large
+geographic distribution, and complex microbial symbioses. My current
+research is using genomics and morphometrics to resolve the
+species-level systematics of this important coral genus, and then will
+use metagenomics to assess signatures of host-microbe coevolution among
+<em>Pocillopora</em> corals and their associated algal and bacterial
+symbiont communities. To learn more, please visit the <a
+href="https://michaeltconnelly.github.io/projects.html">Projects</a>
+page.</p>
 <div class="figure">
 <img src="images/Pocillopora_SanPedro_Morphs.JPG" alt="" />
-<p class="caption"><strong><em>Pocillopora</em> corals are diverse.</strong> Different <em>Pocillopora</em> color morphs at Isla San Pedro in Isla San Pedro in Las Perlas, Panamá.</p>
+<p class="caption"><strong><em>Pocillopora</em></strong> <strong>corals
+are diverse.</strong> Different <em>Pocillopora</em> color morphs at
+Isla San Pedro in Isla San Pedro in Las Perlas, Panamá.</p>
 </div>
 </div>
 

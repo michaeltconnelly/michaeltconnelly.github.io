@@ -29,3 +29,5 @@ output_dir: "."
 output:
   html_document:
     theme: "default"
+    includes:
+       in_header: google_analytics_script.html

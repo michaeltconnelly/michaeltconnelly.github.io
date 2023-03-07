@@ -8,20 +8,12 @@
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-3F26P0RLC5"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-3F26P0RLC5');
-</script>
 
 
 <title>Research Projects</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -45,6 +37,15 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3F26P0RLC5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3F26P0RLC5');
+</script>
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -154,11 +155,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -187,8 +192,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -196,16 +201,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -399,39 +397,112 @@ div.tocify {
 
 
 <hr />
-<div id="smithsonian-biodiversity-genomics-fellowship" class="section level3">
+<div id="smithsonian-biodiversity-genomics-fellowship"
+class="section level3">
 <h3>Smithsonian Biodiversity Genomics Fellowship</h3>
-<p>My current postdoctoral research is using genomic methods to delimit <em>Pocillopora</em> coral species and re-assess the morphology-based taxonomy for this important and widespread coral genus, focusing first on the eastern tropical Pacific (ETP) region. I am working between the <a href="https://naturalhistory.si.edu/">National Museum of Natural History (NMNH)</a> in the <a href="https://naturalhistory.si.edu/research/invertebrate-zoology">Invertebrate Zoology (IZ)</a> department’s <a href="https://naturalhistory.si.edu/research/invertebrate-zoology/research/quattrini-lab">Coral Lab</a> and the <a href="https://stri.si.edu/">Smithsonian Tropical Research Institute (STRI)</a>.</p>
+<p>My current postdoctoral research is using genomic methods to delimit
+<em>Pocillopora</em> coral species and re-assess the morphology-based
+taxonomy for this important and widespread coral genus, focusing first
+on the eastern tropical Pacific (ETP) region. I am working between the
+<a href="https://naturalhistory.si.edu/">National Museum of Natural
+History (NMNH)</a> in the <a
+href="https://naturalhistory.si.edu/research/invertebrate-zoology">Invertebrate
+Zoology (IZ)</a> department’s <a
+href="https://naturalhistory.si.edu/research/invertebrate-zoology/research/quattrini-lab">Coral
+Lab</a> and the <a href="https://stri.si.edu/">Smithsonian Tropical
+Research Institute (STRI)</a>.</p>
 <div class="figure">
 <img src="images/SI_platform.JPG" alt="" />
-<p class="caption"><strong>Smithsonian research facilities at STRI and NMNH.</strong> The STRI Naos Island Marine Lab grants access to coral monitoring sites in the eastern Pacific, and the NMNH IZ department has an immense specimen collection and cutting-edge molecular laboratories.</p>
+<p class="caption"><strong>Smithsonian research facilities at STRI and
+NMNH.</strong> The STRI Naos Island Marine Lab grants access to coral
+monitoring sites in the eastern Pacific, and the NMNH IZ department has
+an immense specimen collection and cutting-edge molecular
+laboratories.</p>
 </div>
-<p>The Smithsonian’s research platform in Panamá and Washington are key for this project. The <a href="https://stri.si.edu/facility/naos">Naos Marine &amp; Molecular Laboratories</a> are an excellent launch point to several field sites in the ETP that span a gradient of seasonal wind-driven upwelling from Isla Coiba in the Gulf of Chiriquí to Isla Saboga in the Gulf of Panamá. Field-collected <em>Pocillopora</em> coral samples from these sites have been transported to the NMNH for genomic and morphometric species delimitation analyses and comparisons to historical <em>Pocillopora</em> specimens in the IZ department collections.</p>
+<p>The Smithsonian’s research platform in Panamá and Washington are key
+for this project. The <a href="https://stri.si.edu/facility/naos">Naos
+Marine &amp; Molecular Laboratories</a> are an excellent launch point to
+several field sites in the ETP that span a gradient of seasonal
+wind-driven upwelling from Isla Coiba in the Gulf of Chiriquí to Isla
+Saboga in the Gulf of Panamá. Field-collected <em>Pocillopora</em> coral
+samples from these sites have been transported to the NMNH for genomic
+and morphometric species delimitation analyses and comparisons to
+historical <em>Pocillopora</em> specimens in the IZ department
+collections.</p>
 <div class="figure">
 <img src="images/Figure1_SIFP.JPG" alt="" />
-<p class="caption"><strong>Project summary.</strong> (<strong>A</strong>) The <em>Pocillopora</em> coral holobiont comprises the coral host and symbiotic algae and bacteria, some of which are transmitted between host generations. (<strong>B</strong>) Phylosymbiosis occurs when the relationships between symbiotic microbial communities recapitulate host phylogenetic relationships. (<strong>C</strong>) Coral branch morphology and corallite microstructure for three <em>Pocillopora</em> species last revised in Schmidt-Roach et al. (2014), correspondence between genetics and morphological characters has not been assessed for the eight morphospecies that are present in Panamá. (<strong>D</strong>) Location of STRI coral monitoring sites in the Gulf of Chiriquí and Gulf of Panamá. (<strong>E</strong>) Locations and numbers of preserved Pocillopora coral specimens in the NMNH Invertebrate Zoology collections.</p>
+<p class="caption"><strong>Project summary.</strong>
+(<strong>A</strong>) The <em>Pocillopora</em> coral holobiont comprises
+the coral host and symbiotic algae and bacteria, some of which are
+transmitted between host generations. (<strong>B</strong>)
+Phylosymbiosis occurs when the relationships between symbiotic microbial
+communities recapitulate host phylogenetic relationships.
+(<strong>C</strong>) Coral branch morphology and corallite
+microstructure for three <em>Pocillopora</em> species last revised in
+Schmidt-Roach et al. (2014), correspondence between genetics and
+morphological characters has not been assessed for the eight
+morphospecies that are present in Panamá. (<strong>D</strong>) Location
+of STRI coral monitoring sites in the Gulf of Chiriquí and Gulf of
+Panamá. (<strong>E</strong>) Locations and numbers of preserved
+Pocillopora coral specimens in the NMNH Invertebrate Zoology
+collections.</p>
 </div>
-<p>My hope is that an improved taxonomy of these critical coral species will be a valuable resource for scientists studying coral reef species distributions and interactions in marginal ecosystems and will reveal the fundamental co-evolutionary processes that help generate coral species diversity in other eco-regions.</p>
+<p>My hope is that an improved taxonomy of these critical coral species
+will be a valuable resource for scientists studying coral reef species
+distributions and interactions in marginal ecosystems and will reveal
+the fundamental co-evolutionary processes that help generate coral
+species diversity in other eco-regions.</p>
 <hr />
 </div>
-<div id="ph.d.-research-on-pocillopora-host-microbe-interactions" class="section level3">
-<h3>Ph.D. research on <em>Pocillopora</em> host-microbe interactions</h3>
-<p>I completed my Ph.D. at the University of Miami <a href="https://www.rsmas.miami.edu/">Rosenstiel School of Marine and Atmospheric Science</a> (RSMAS), working in the <a href="https://cnidimmunitylab.com/">Cnidarian Immunity Laboratory</a> with Dr. Nikki Traylor-Knowles as my Ph.D. advisor.</p>
-<p>During my Ph.D. I completed an NSF East Asia and Pacific Summer Institutes (EAPSI) fellowship in Taiwan, where I studied <em>Pocillopora</em> coral gene expression and bacteria community shifts in response to experimental treatments with bacteria lipopolysaccharide, antibiotics, and heat stress that were intended to disrupt normal host-bacteria interactions. The publications that resulted from these experiments can be found <a href="https://doi.org/10.1016/j.dci.2020.103717">here</a> and <a href="https://doi.org/10.3389/fmars.2021.814124">here</a>.</p>
+<div id="ph.d.-research-on-pocillopora-host-microbe-interactions"
+class="section level3">
+<h3>Ph.D. research on <em>Pocillopora</em> host-microbe
+interactions</h3>
+<p>I completed my Ph.D. at the University of Miami <a
+href="https://www.rsmas.miami.edu/">Rosenstiel School of Marine and
+Atmospheric Science</a> (RSMAS), working in the <a
+href="https://cnidimmunitylab.com/">Cnidarian Immunity Laboratory</a>
+with Dr. Nikki Traylor-Knowles as my Ph.D. advisor.</p>
+<p>During my Ph.D. I completed an NSF East Asia and Pacific Summer
+Institutes (EAPSI) fellowship in Taiwan, where I studied
+<em>Pocillopora</em> coral gene expression and bacteria community shifts
+in response to experimental treatments with bacteria lipopolysaccharide,
+antibiotics, and heat stress that were intended to disrupt normal
+host-bacteria interactions. The publications that resulted from these
+experiments can be found <a
+href="https://doi.org/10.1016/j.dci.2020.103717">here</a> and <a
+href="https://doi.org/10.3389/fmars.2021.814124">here</a>.</p>
 <div class="figure">
 <img src="images/EAPSI_Corals_Sites.JPG" alt="" />
-<p class="caption"><strong>NSF EAPSI corals and sites.</strong> <em>Pocillopora acuta</em> colonies at Outlet reef (top) and Wanglitung reef (bottom) near Kenting, Taiwan.</p>
+<p class="caption"><strong>NSF EAPSI corals and sites.</strong>
+<em>Pocillopora acuta</em> colonies at Outlet reef (top) and Wanglitung
+reef (bottom) near Kenting, Taiwan.</p>
 </div>
-<p>I also was involved in projects funded by the Florida Department of Environmental Protection that investigated the gene expression of diverse Caribbean coral species in response to infection with the Stony Coral Tissue Loss Disease (SCTLD), the results of which are published <a href="https://doi.org/10.3389/fmars.2021.681563">here</a>.</p>
+<p>I also was involved in projects funded by the Florida Department of
+Environmental Protection that investigated the gene expression of
+diverse Caribbean coral species in response to infection with the Stony
+Coral Tissue Loss Disease (SCTLD), the results of which are published <a
+href="https://doi.org/10.3389/fmars.2021.681563">here</a>.</p>
 <hr />
 </div>
 <div id="other-current-projects" class="section level3">
 <h3>Other current projects</h3>
 <ul>
-<li>Physiology and transcriptome responses of <em>Pocillopora</em> corals to antibiotic microbiome suppression - <a href="https://github.com/michaeltconnelly/coral_antibiotics_physiology">GitHub Link</a></li>
-<li>Meta-analysis of <em>Pocillopora</em> RNAseq datasets in the NCBI SRA - <a href="https://github.com/michaeltconnelly/MetaPocillopora">GitHub Link</a></li>
-<li>Genomic species delimitation of <em>Pocillopora</em> corals in the eastern tropical Pacific of Panama</li>
-<li>Coral conservation genetics for reef restoration workshop, in partnership with <a href="https://www.raisingcoral.org/">Raising Coral Costa Rica</a> - <a href="https://michaeltconnelly.github.io/RaisingCoral_CoralGeneticsWorkshop_2022/">Course Website</a></li>
+<li>Physiology and transcriptome responses of <em>Pocillopora</em>
+corals to antibiotic microbiome suppression - <a
+href="https://github.com/michaeltconnelly/coral_antibiotics_physiology">GitHub
+Link</a></li>
+<li>Meta-analysis of <em>Pocillopora</em> RNAseq datasets in the NCBI
+SRA - <a
+href="https://github.com/michaeltconnelly/MetaPocillopora">GitHub
+Link</a></li>
+<li>Genomic species delimitation of <em>Pocillopora</em> corals in the
+eastern tropical Pacific of Panama</li>
+<li>Coral conservation genetics for reef restoration workshop, in
+partnership with <a href="https://www.raisingcoral.org/">Raising Coral
+Costa Rica</a> - <a
+href="https://michaeltconnelly.github.io/RaisingCoral_CoralGeneticsWorkshop_2022/">Course
+Website</a></li>
 </ul>
 </div>
 

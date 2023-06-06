@@ -4,13 +4,13 @@ title: "Michael T. Connelly, Ph.D."
 
 ------------------------------------------------------------------------
 
-<img src="./images/Mike_3MT_headshot_thumbnail.JPG" alt="Miami 2020" align="right" width="200"/>
+<img src="./images/Mike_3MT_headshot_thumbnail.JPG" alt="Miami 2020" align="left" width="200"/>
 
 ### About me
 
 **Hello, and welcome!** My name is Mike Connelly, and I study coral evolution and host-microbe interactions to help support coral reef conservation and restoration efforts. I am currently a Biodiversity Genomics postdoctoral fellow at the Smithsonian Institution (SI), and I work between the [National Museum of Natural History (NMNH)](https://naturalhistory.si.edu/) in Washington, D.C. and the [Smithsonian Tropical Research Institute (STRI)](https://stri.si.edu/) in Panamá to study the evolution and microbial symbiosis ecology of *Pocillopora* corals in the eastern tropical Pacific (ETP).
 
-![***Pocillopora*** **corals are dominant in the ETP**. A single large *Pocillopora* colony growing on Isla Champion in the Galápagos, Ecuador.](./images/Champion_Green_Pocillopora.JPG)
+![***Pocillopora*** **corals are dominant in the ETP**. A single large *Pocillopora* colony growing on Isla Champion in the Galápagos Islands, Ecuador.](./images/Champion_Green_Pocillopora.JPG)
 
 ------------------------------------------------------------------------
 

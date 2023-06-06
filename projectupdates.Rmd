@@ -6,4 +6,24 @@ output:
     toc_float: true  
 ---
 
+## STRI Rohr Reef Resilience Project 2023 Galápagos Islands Expedition
+
+In March 2023, the Rohr Reef Resilience (RRR) project team at STRI partnered with the S/Y Acadia and researchers at the Charles Darwin Foundation (CDF) to survey coral reefs and coral ecosystems in the Galápagos Islands. My role on the project was to take photos and collect samples of *Pocillopora* corals across the the islands of Floreana, Isabela, Wolf, Darwin, Santiago, and Baltra, while the RRR team established monitoring transects, performed fish censuses and obtained water, sediment, and eDNA samples from each site.
+
+![*Pocillopora* colony at Isla Champion in the Galápagos Islands, Ecuador.](./images/Pocillopora_805_Champion.JPG)
+
+![Taking photos of a *Pocillopora* colony at Isla Wolf in the Galápagos Islands, Ecuador.](./images/Mike_Wolf_Transect-10.JPG)
+
+## 2022 Workshop on Coral Genetics for Conservation and Restoration
+
+In July 2022, I collaborated Raising Coral Costa Rica and the University of Costa Rica Centro de Investigaciones en Ciencias del Mar y Limnologia (CIMAR) to host the first workshop on *Pocillopora* coral genetics for conservation and restoration in Costa Rica. During the workshop, DNA extracts from 45 Pocillopora coral colonies were prepared at the CIMAR laboratories using the Qiagen DNeasy PowerSoil Pro kit, and PCR amplicons for mitochondrial barcoding loci were prepared.
+
+For more information, check-out the [course website](https://michaeltconnelly.github.io/RaisingCoral_CoralGeneticsWorkshop_2022/).
+
+![Workshop group photo at the CIMAR laboratories.](./images/RCCR_workshop_group_photo.JPG)
+
+## 3D Photogrammetry
+
+```{=html}
 <script src="https://embed.github.com/view/3d/michaeltconnelly/michaeltconnelly.github.io/3dmodels/USNM_1260495_top MichaelConnelly.stl"></script>
+```

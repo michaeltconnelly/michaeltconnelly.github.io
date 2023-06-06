@@ -24,6 +24,5 @@ For more information, check-out the [course website](https://michaeltconnelly.gi
 
 ## 3D Photogrammetry
 
-```{=html}
-<script src="https://embed.github.com/view/3d/michaeltconnelly/michaeltconnelly.github.io/3dmodels/Perlas_Pocillopora_Model1_500K.stl"></script>
-```
+<script src="https://embed.github.com/view/3d/michaeltconnelly/michaeltconnelly.github.io/3dmodels/Perlas_Pocillopora_Model1_100K.stl?height=500&width=720"></script>
+

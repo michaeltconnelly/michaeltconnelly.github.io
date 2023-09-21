@@ -5,6 +5,12 @@ output:
     toc: false  
     toc_float: false  
 ---
+<style type="text/css">
+
+body, td {
+   font-size: 16px;
+}
+</style>
 ***
 
 ### Conference Presentations

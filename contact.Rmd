@@ -1,6 +1,12 @@
 ---
 title: "Contact Information"
 ---
+<style type="text/css">
+
+body, td {
+   font-size: 16px;
+}
+</style>
 ***
 
 * SI Email:       connellym (at) si (dot) edu  

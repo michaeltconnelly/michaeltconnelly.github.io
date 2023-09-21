@@ -16,7 +16,8 @@ navbar:
       href: cv.html
     - text: "Contact"
       href: contact.html
-    - icon: fa-rocket
+    - text: "Updates"
+      icon: fa-rocket
       href: projectupdates.html
   right:
     - icon: fa-github fa-lg

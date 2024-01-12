@@ -9,11 +9,15 @@ body, td {
 </style>
 ------------------------------------------------------------------------
 
-<img src="./images/Mike_3MT_headshot_thumbnail.JPG" alt="Miami 2020" align="left" width="200"/>
+<img src="./images/Mike_3MT_headshot_thumbnail.JPG" alt="Miami 2020" align="left" width="220"/>
 
 ### About me
 
-**Hello, and welcome!** My name is Mike Connelly, and I study coral evolution and host-microbe interactions to help support coral reef conservation and restoration efforts. I am currently a Biodiversity Genomics postdoctoral fellow at the Smithsonian Institution (SI), and I work between the [National Museum of Natural History (NMNH)](https://naturalhistory.si.edu/) in Washington, D.C. and the [Smithsonian Tropical Research Institute (STRI)](https://stri.si.edu/) in Panamá to study the evolution and microbial symbiosis ecology of *Pocillopora* corals in the eastern tropical Pacific (ETP).
+**Hello, and welcome!** My name is Mike Connelly, and I am a marine  biologist that studies cnidarian genomics to better understand the evolutionary origins of the immune system, and also to help support coral reef conservation and restoration efforts. 
+
+I am currently a Postdoctoral Fellow at the [National Human Genome Research Institute](https://www.genome.gov/) of the [National Institutes of Health](https://www.nih.gov/). My primary focus is on the assembly and functional annotation of the *Podocoryna carnea* refence genome. This small freshwater hydrozoan has a transparent body and rapid life cycle that allows studies of fundamental processes such regeneration, cell differentiation, and organismal development.
+
+In my personal time, I am also a Research Associate at the Smithsonian Institution  [National Museum of Natural History (NMNH)](https://naturalhistory.si.edu/) in Washington, D.C., working with collaborators at the [Smithsonian Tropical Research Institute (STRI)](https://stri.si.edu/) in Panamá to study the evolution and microbial symbiosis ecology of *Pocillopora* corals in the eastern tropical Pacific (ETP).
 
 ![***Pocillopora*** **corals are dominant in the ETP**. A single large *Pocillopora* colony growing on Isla Champion in the Galápagos Islands, Ecuador.](./images/Champion_Green_Pocillopora.JPG)
 

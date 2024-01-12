@@ -1,0 +1,19 @@
+---
+title: "Resources"
+output:  
+  html_document:  
+    toc: true  
+    toc_float: true  
+---
+<style type="text/css">
+
+body, td {
+   font-size: 16px;
+}
+</style>
+
+## Bioinformatics short courses and learning resources
+
+https://speciationgenomics.github.io/
+
+https://baylab.github.io/MarineGenomics/

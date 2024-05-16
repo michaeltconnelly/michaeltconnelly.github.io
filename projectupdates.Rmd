@@ -13,7 +13,7 @@ body, td {
 }
 </style>
 
-## Beginning research on cnidarian muscle, gut, and nervous system evolution at the National Institutes of Health - National Human Genome Research Institute!
+## Beginning research on cnidarian muscle, gut, and nervous system evolution at the National Institutes of Health - National Human Genome Research Institute
 
 I have begun a new fellowship at the NIH, merging my interests in cnidarian evolution, immunology, and health in Dr. Andy Baxevanis' lab in the Computational Genomics Unit! I will be working on genome assemblies and single-cell RNAseq projects seeking to understand the evolutionary origins of complex tissues such as muscle, gut, and nervous systems, while exploring their relevance to immune functions in diverse cnidarian species. 
 
@@ -23,7 +23,7 @@ I have begun a new fellowship at the NIH, merging my interests in cnidarian evol
 
 I am thrilled to share that my manuscript titled "Antibiotics reduce Pocillopora coral-associated bacteria diversity, decrease holobiont oxygen consumption, and activate immune gene expression" has been published in Molecular Ecology! This research delves into the intricate relationships within Pocillopora coral holobiont, uncovering significant insights on how antibiotics treatments reduce bacterial diversity and cause immune activation. These findings contribute to our understanding of coral health and pave the way for further exploration in coral-microbe interactions. I invite you to explore the detailed findings in the published manuscript, available now at [this link](https://doi.org/10.1111/mec.17049)!
 
-![Manuscript available online at Molecular Ecology](./images/Connelly2023.JPG){width=600px}
+![](./images/Connelly2023.PNG){width=600px}
 
 \ 
 

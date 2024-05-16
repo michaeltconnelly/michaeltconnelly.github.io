@@ -19,7 +19,7 @@ I am currently a Postdoctoral Fellow at the [National Human Genome Research Inst
 
 In my personal time, I am also a Research Associate at the Smithsonian Institution  [National Museum of Natural History (NMNH)](https://naturalhistory.si.edu/) in Washington, D.C., working with collaborators at the [Smithsonian Tropical Research Institute (STRI)](https://stri.si.edu/) in Panamá to study the evolution and microbial symbiosis ecology of *Pocillopora* corals in the eastern tropical Pacific (ETP).
 
-![***Pocillopora*** **corals are dominant in the ETP**. A single large *Pocillopora* colony growing on Isla Champion in the Galápagos Islands, Ecuador.](./images/Champion_Green_Pocillopora.JPG)
+![***Pocillopora*** **corals are dominant in the ETP**. A single large *Pocillopora* colony growing on Isla Champion in the Galápagos Islands, Ecuador.](./images/Champion_Green_Pocillopora.JPG){width=800px}
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ I am a molecular marine biologist that is broadly interested in how microbial sy
 
 In particular, I am fascinated by scleractinian corals in the genus *Pocillopora* because of their ecological importance, large geographic distribution, and complex microbial symbioses. My current research is using genomics and morphometrics to resolve the species-level systematics of this important coral genus, and then will use metagenomics to assess signatures of host-microbe coevolution among *Pocillopora* corals and their associated algal and bacterial symbiont communities. To learn more, please visit the [Projects](https://michaeltconnelly.github.io/projects.html) page.
 
-![***Pocillopora*** **corals are diverse.** Different *Pocillopora* color morphs at Isla San Pedro in Isla San Pedro in Las Perlas, Panamá.](./images/Pocillopora_SanPedro_Morphs.JPG)
+![***Pocillopora*** **corals are diverse.** Different *Pocillopora* color morphs at Isla San Pedro in Isla San Pedro in Las Perlas, Panamá.](./images/Pocillopora_SanPedro_Morphs.JPG){width=800px}

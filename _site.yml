@@ -4,21 +4,21 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Publications"
+      href: publications.html
+    - text: "CV"
+      href: cv.html
     - text: "Research"
       menu:
         - text: "Projects"
           href: projects.html
         - text: "Presentations"
           href: presentations.html
-        - text: "Publications"
-          href: publications.html
-    - text: "CV"
-      href: cv.html
-    - text: "Contact"
-      href: contact.html
     - text: "Updates"
       icon: fa-rocket
       href: projectupdates.html
+    - text: "Contact"
+      href: contact.html
   right:
     - icon: fa-github fa-lg
       href: https://github.com/michaeltconnelly

@@ -11,6 +11,8 @@ body, td {
 
 ### Published:
 
+-**10.** **Connelly, M.T.**, Catapang, M.G. and Quattrini, A.M. (2024) “[Unlocking the treasure trove: leveraging dry coral specimens for museum genomics](https://doi.org/10.1007/s00338-024-02525-5)” Coral Reefs. 
+
 -**9.** **Connelly, M.T.**, Snyder, G.A., Palacio-Castro, A.M., Gillette, P.R., Baker, A.C. and Traylor-Knowles, N.T. (2023) “[Antibiotics reduce Pocillopora coral-associated bacteria diversity, decrease holobiont oxygen consumption, and activate immune gene expression](https://doi.org/10.1111/mec.17049)” Molecular Ecology.
 
 -**8.** **Connelly, M.T.**, McRae, C.J., Liu, P.J., Martin, C.E. and Traylor-Knowles, N.T. (2022) “[Antibiotics Alter *Pocillopora* Coral-Symbiodiniaceae-Bacteria Interactions and Cause Microbial Dybiosis During Heat Stress](https://doi.org/10.3389/fmars.2021.814124)” Frontiers in Marine Science.

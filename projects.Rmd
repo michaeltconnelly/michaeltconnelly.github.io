@@ -16,11 +16,16 @@ body, td {
 ### NHGRI Postdoctoral Research Fellowship
 My current research at the [National Institutes of Health (NIH)](https://www.nih.gov/) in the [National Human Genome Research Institute (NHGRI)](https://www.genome.gov/) is working to assemble and annotate a reference genome for the hydrozoan [*Podocoryna carnea*](https://www.marinespecies.org/aphia.php?p=taxdetails&id=151718), an emerging model for studies of striated muscle evolution and regeneration. Next, we will seek to create single-cell atlases of all cell types present in different *Podocoryna* life stages.
 
+
+
 ![***Podocoryna carnea* is an emerging cnidarian model species.** Colonies of polyps are grown on microscope slides, and release medusae (jellyfish) that possess striated muscle tissues into the water column.](./images/podocoryna_polyp_slide.JPG)
 
 ***  
 
 ### Smithsonian Biodiversity Genomics Fellowship
+
+I am especially interested in how these host-microbe interactions affect the ecology, evolution, and biodiversity of tropical coral reef and other marine ecosystems. In particular, I am fascinated by scleractinian corals in the genus *Pocillopora* because of their ecological importance, large geographic distribution, and complex microbial symbioses. Another aim of my research is to use genomics to resolve the systematics of this important coral genus, and apply metagenomics to assess signatures of host-microbe coevolution among *Pocillopora* corals and their associated symbiont communities. 
+
 My previous postdoctoral research applied genomics to delimit *Pocillopora* coral species and re-assess the morphology-based taxonomy for this important and widespread coral genus, focusing on the eastern tropical Pacific (ETP). I am continuing to work with teams at the [National Museum of Natural History (NMNH)](https://naturalhistory.si.edu/) in the [Invertebrate Zoology (IZ)](https://naturalhistory.si.edu/research/invertebrate-zoology) department's [Coral Lab](https://naturalhistory.si.edu/research/invertebrate-zoology/research/quattrini-lab) and the [Smithsonian Tropical Research Institute (STRI)](https://stri.si.edu/).
 
 ![**Smithsonian research facilities at STRI and NMNH.** The STRI Naos Island Marine Lab grants access to coral monitoring sites in the eastern Pacific, and the NMNH IZ department has an immense specimen collection and cutting-edge molecular laboratories.](./images/SI_platform.JPG)

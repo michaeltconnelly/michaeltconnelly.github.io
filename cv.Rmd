@@ -20,3 +20,7 @@ library(rmarkdown)
 ```{r, echo=FALSE, out.width="100%", out.height="1000px"}
 knitr::include_graphics("./pdfs/MichaelConnelly_CV.pdf")
 ```
+
+\  
+
+![***Pocillopora*** **corals are ecosystem engineers in the ETP**. A single large *Pocillopora* colony growing on Isla Champion in the Galápagos Islands, Ecuador.](./images/Champion_Green_Pocillopora.JPG)

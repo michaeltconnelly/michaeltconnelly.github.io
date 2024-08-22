@@ -51,8 +51,14 @@ I also was involved in projects funded by the Florida Department of Environmenta
 
 ***  
 
-### Other current projects
+### Other projects
 * Physiology and transcriptome responses of *Pocillopora* corals to antibiotic microbiome suppression - [GitHub Link](https://github.com/michaeltconnelly/coral_antibiotics_physiology)
 * Meta-analysis of *Pocillopora* RNAseq datasets in the NCBI SRA - [GitHub Link](https://github.com/michaeltconnelly/MetaPocillopora)
 * Genomic species delimitation of *Pocillopora* corals in the eastern tropical Pacific of Panama
 * Coral conservation genetics for reef restoration workshop, in partnership with [Raising Coral Costa Rica](https://www.raisingcoral.org/) - [Course Website](https://michaeltconnelly.github.io/RaisingCoral_CoralGeneticsWorkshop_2022/)
+
+***
+
+![***Pocillopora*** **corals are ecosystem engineers in the ETP**. A single large *Pocillopora* colony growing on Isla Champion in the Galápagos Islands, Ecuador.](./images/Champion_Green_Pocillopora.JPG){width=800px align="center" style="margin: 5px 5px 5px 0"}
+
+

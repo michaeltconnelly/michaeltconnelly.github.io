@@ -33,4 +33,5 @@ body, td {
 
 ***
 
-![***Pocillopora* reef framework.** *Pocillopora* coral reef accretion at Isla San Pedro in Las Perlas, Panamá.](./images/Reef_SanPedro_A.JPG)
+![***Pocillopora* reef framework.** *Pocillopora* coral reef accretion at Isla San Pedro in Las Perlas, Panamá.](./images/Reef_SanPedro_A.JPG){width=800px align="center" style="margin: 5px 5px 5px 0"}
+

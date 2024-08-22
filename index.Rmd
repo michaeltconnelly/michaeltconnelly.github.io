@@ -29,7 +29,7 @@ I am a molecular marine biologist that is interested the drivers of innovation i
 
 To learn more, please visit the  [Projects](https://michaeltconnelly.github.io/projects.html) page.
 
-\ 
+***
 
 ![***Pocillopora*** **corals are diverse.** Different *Pocillopora* color morphs at Isla San Pedro in Isla San Pedro in Las Perlas, Panamá.](./images/Pocillopora_SanPedro_Morphs.JPG){width=800px align="center" style="margin: 5px 5px 5px 0"}
 

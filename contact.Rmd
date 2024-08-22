@@ -9,15 +9,16 @@ body, td {
 </style>
 ***
 
+Note: Gmail is preferred for general inquiries
+
+* Gmail:          michael.t.connelly01 (at) gmail (dot) com  
+
 * NIH Email       connellym2 (at) nih (dot) gov
 
 * SI Email:       connellym (at) si (dot) edu  
 
-* Gmail:          michael.t.connelly01 (at) gmail (dot) com  
-
-Gmail is preferred for general inquiries
 ***
 
-\ 
+![***Pocillopora* corals are widespread.** *Pocillopora* colonies growing in the lagoon at Concha y Perla, Isla Isabela, Galápagos.](./images/Pocillopora_Concha.JPG){width=800px align="center" style="margin: 5px 5px 5px 0"}
 
-![***Pocillopora* corals are widespread.** *Pocillopora* colonies growing in the lagoon at Concha y Perla, Isla Isabela, Galápagos.](./images/Pocillopora_Concha.JPG)
+

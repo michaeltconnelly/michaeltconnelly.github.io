@@ -36,6 +36,5 @@ body, td {
   
 ***
 
-\ 
+![***Pocillopora* corals are resilient.** *Pocillopora acuta* colony growing on a mooring line near Houbihu harbor in Kenting, Taiwan.](./images/Pocillopora_Houbihu_Rope.JPG){width=800px align="center" style="margin: 5px 5px 5px 0"}
 
-![***Pocillopora* corals are resilient.** *Pocillopora acuta* colony growing on a mooring line near Houbihu harbor in Kenting, Taiwan.](./images/Pocillopora_Houbihu_Rope.JPG)

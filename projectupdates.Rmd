@@ -13,7 +13,7 @@ body, td {
 }
 </style>
 
-## Summer 2024 conferences: *Pocillopora* coral diversity at Evolution, *Podocoryna* scRNAseq at Cnidofest!
+## Summer 2024 conferences: *Pocillopora* coral diversity at Evolution, *Podocoryna* scRNAseq at Cnidofest
 
 I greatly enjoyed presenting my research at two conferences in July and August 2024, first at the 3rd Joint Congress on Evolutionary Biology in Montreal, Canada, and later at Cnidofest 2024 in Bethlehem, Pennsylvania! You can watch the recording from the Evolution conference at [this link](https://www.youtube.com/watch?v=Md7D4jyhMNs&list=PLnl_pi1g6Uve0ZkdmIUjGw3fu91avxcE3&index=230) to see the most current results from my *Pocillopora* coral genomics research. At Cnidofest, I presented the preliminary results from our work to build a *Podocoryna* single-cell atlas, and greatly enjoyed re-introducing myself to the cnidarian model system research community!
 
@@ -21,7 +21,7 @@ I greatly enjoyed presenting my research at two conferences in July and August 2
 
 \ 
 
-## NIH/NHGRI Summer Intership Program poster session highlights utility of protein structural methods for uncovering cnidarian allorecognition systems
+## NHGRI Summer Intership Program poster session highlights utility of protein structural methods for uncovering cnidarian allorecognition systems
 
 This summer, the Baxevanis lab at the NHGRI hosted Jonah Petty from the University of Maryland, Baltimore County for an 8-week internship where he learned computational methods in genomic analysis such as gene model prediction, BLAST searches, and protein structural predictions with AlphaFold2. Jonah applied these approaches to explore the diversity of cnidarian allorecognition systems, focusing on a suite of model cnidarians from across the phylum with various body plans (solitary vs. colonial) and life history strategies (benthic vs. free-living) to see if these traits are linked to the number of allorecognition (ALR) protein homologs and diversity of protein domain architectures found in their genomes. Jonah discovered some very interesting trends that we will be exploring further in future work, and we are excited that he is returning to the lab this fall!
 
@@ -31,7 +31,7 @@ This summer, the Baxevanis lab at the NHGRI hosted Jonah Petty from the Universi
 
 ## Beginning research on cnidarian muscle, gut, and nervous system evolution at the National Institutes of Health - National Human Genome Research Institute (NHGRI)
 
-I have begun a new fellowship at the NIH, merging my interests in cnidarian evolution, immunology, and health in Dr. Andy Baxevanis' lab in the NHGRI Computational Genomics Unit! I will be working on genome assemblies and single-cell RNAseq projects seeking to understand the evolutionary origins of complex tissues such as muscle, gut, and nervous systems, while exploring their relevance to immune functions and host-microbe interactions in diverse cnidarian species. Our work will begin in *Podocoryna carnea*, also known as the "Smooth-spined snailfur."
+I have begun a new fellowship at the NIH, merging my interests in cnidarian evolution, immunology, and health in Dr. Andy Baxevanis' lab in the NHGRI Computational Genomics Unit. I will be working on genome assemblies and single-cell RNAseq projects seeking to understand the evolutionary origins of complex tissues such as muscle, gut, and nervous systems, while exploring their relevance to immune functions and host-microbe interactions in diverse cnidarian species. Our work will begin in *Podocoryna carnea*, also known as the "Smooth-spined snailfur."
 
 
 \ 

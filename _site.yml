@@ -22,9 +22,9 @@ navbar:
   right:
     - icon: fa-github fa-lg
       href: https://github.com/michaeltconnelly
-    - icon: fa-twitter fa-lg
-      href: https://twitter.com/MikeT_Connelly
-    - icon: fa-google
+    - icon: fa-brands fa-bluesky fa-lg
+      href: https://bsky.app/profile/michaeltconnelly.bsky.social
+    - icon: fa-brands fa-google-scholar fa-lg
       href: https://scholar.google.com/citations?user=OjTalQQAAAAJ&hl=en
 output_dir: "."
 output:

@@ -13,12 +13,10 @@ body, td {
 </style>
 ***
 
-### NHGRI Postdoctoral Research Fellowship
-My current research at the [National Institutes of Health (NIH)](https://www.nih.gov/) in the [National Human Genome Research Institute (NHGRI)](https://www.genome.gov/) is working to assemble and annotate a reference genome for the hydrozoan [*Podocoryna carnea*](https://www.marinespecies.org/aphia.php?p=taxdetails&id=151718), an emerging model for studies of striated muscle evolution and regeneration. Next, we will seek to create single-cell atlases of all cell types present in different *Podocoryna* life stages.
+### NHGRI Postdoc Fellowship
+My current research at the [National Institutes of Health (NIH)](https://www.nih.gov/) in the [National Human Genome Research Institute (NHGRI)](https://www.genome.gov/) is working to assemble, annotate, and analyze the reference genome for the hydrozoan [*Podocoryna americana*](https://www.marinespecies.org/aphia.php?p=taxdetails&id=731064), an emerging model for studies of striated muscle evolution and regeneration. In parallel, I am working to create a single-cell atlas of all the cell types present across the different *Podocoryna* life stages.
 
-
-
-![***Podocoryna carnea* is an emerging cnidarian model species.** Colonies of polyps are grown on microscope slides, and release medusae (jellyfish) that possess striated muscle tissues into the water column.](./images/podocoryna_polyp_slide.JPG)
+![***Podocoryna* is an emerging cnidarian model species.** The availability of a chromosome-scale reference genome and single-cell atlas will greatly benefit studies of cell type evolution and differentiation.](./images/podocoryna_genomic_resources.JPG)
 
 ***  
 

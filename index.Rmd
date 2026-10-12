@@ -1,38 +1,88 @@
 ---
 title: "Michael T. Connelly, Ph.D."
 ---
-<style type="text/css">
 
-body, td {
-   font-size: 16px;
-}
-</style>
-------------------------------------------------------------------------
+<div class="hero">
+  <div class="hero-copy">
+    <p class="eyebrow">Evolutionary biology · Comparative genomics · Marine conservation</p>
+    <h1>Michael T. Connelly, Ph.D.</h1>
+    <p class="hero-lead">I use genomics and computational biology to understand how animal diversity evolves—from the origins of cell types in early animals to hidden biodiversity and microbial partnerships in coral reefs.</p>
+    <p class="hero-role">Postdoctoral Researcher · National Human Genome Research Institute, National Institutes of Health</p>
+    <div class="hero-links">
+      <a class="button-link" href="./cv.html">View CV</a>
+      <a class="text-link" href="./publications.html">Selected publications <span aria-hidden="true">→</span></a>
+      <a class="text-link" href="./contact.html">Get in touch <span aria-hidden="true">→</span></a>
+    </div>
+  </div>
+  <img class="profile-photo" src="./images/Mike_headshot_Fagua.jpg" alt="Michael Connelly in the field" />
+</div>
 
-<img style="margin: 5px 20px 5px 0" src="./images/Mike_headshot_Fagua.jpg" alt="3MT Miami" align="left" width="240px"></img>
+<div class="section-intro">
+  <p class="eyebrow">Research overview</p>
+  <h2>Connecting evolutionary questions with genomic evidence</h2>
+  <p>My research combines comparative genomics, phylogenomics, and single-cell transcriptomics to investigate how genomes, cells, and symbioses shape animal diversity. I work primarily with cnidarians—jellyfish and corals—which offer powerful perspectives on the evolution of animal tissues, regeneration, immunity, and marine biodiversity.</p>
+</div>
 
-### About me
+<div class="research-grid">
+  <div class="research-card">
+    <img src="./images/podocoryna_life_cycle.JPG" alt="Polyp colonies and medusae in the Podocoryna life cycle" />
+    <div class="research-card-body">
+      <p class="card-kicker">Cell-type evolution</p>
+      <h3>How did animal cells and tissues evolve?</h3>
+      <p>At NHGRI, I study the hydrozoan <em>Podocoryna</em> using genome resources and single-cell RNA sequencing to investigate cell-type diversity, differentiation, and the evolution of specialized tissues such as striated muscle.</p>
+      <a href="./projects.html#podocoryna">Explore this research <span aria-hidden="true">→</span></a>
+    </div>
+  </div>
+  <div class="research-card">
+    <img src="./images/Pocillopora_SanPedro_Morphs.JPG" alt="Different Pocillopora coral forms from the eastern tropical Pacific" />
+    <div class="research-card-body">
+      <p class="card-kicker">Biodiversity & conservation</p>
+      <h3>What diversity is hidden in coral reefs?</h3>
+      <p>I apply phylogenomics and museum genomics to resolve species boundaries in <em>Pocillopora</em> corals, connecting evolutionary history to coral distributions and conservation.</p>
+      <a href="./projects.html#coral-diversity">Explore this research <span aria-hidden="true">→</span></a>
+    </div>
+  </div>
+  <div class="research-card">
+    <img src="./images/Connelly2023.PNG" alt="Research figure from work on coral-associated microbial communities" />
+    <div class="research-card-body">
+      <p class="card-kicker">Host–microbe interactions</p>
+      <h3>How do symbioses shape animal biology?</h3>
+      <p>My work investigates how coral-associated bacteria and symbiotic algae relate to host physiology, immune responses, and evolutionary diversification.</p>
+      <a href="./projects.html#host-microbes">Explore this research <span aria-hidden="true">→</span></a>
+    </div>
+  </div>
+</div>
 
-**Hello, and welcome!** My name is Mike Connelly, and I am a marine biologist that studies cnidarian genomics to discover key innovations in early animal evolution and reveal how host-microbe interactions impact key evolutionary processes. My overarching goal is to generate discoveries that can be translated to improve human and ecosystem health. Please reach out if you have any questions about my work, I am always happy to connect!
+## Selected contributions
 
-------------------------------------------------------------------------
+<div class="contribution-list">
+  <div class="contribution">
+    <span class="contribution-year">2026</span>
+    <div><strong>A chromosome-level reference genome for <em>Podocoryna americana</em></strong><p>Co-first author · <em>G3: Genes, Genomes, Genetics</em></p><a href="https://doi.org/10.1093/g3journal/jkag160">Read the paper <span aria-hidden="true">→</span></a></div>
+  </div>
+  <div class="contribution">
+    <span class="contribution-year">2025</span>
+    <div><strong>Genome skimming illuminates hidden species diversity and Symbiodiniaceae associations in east Pacific <em>Pocillopora</em> corals</strong><p>First author · <em>Genome Biology and Evolution</em></p><a href="https://doi.org/10.1093/gbe/evaf235">Read the paper <span aria-hidden="true">→</span></a></div>
+  </div>
+  <div class="contribution">
+    <span class="contribution-year">2024</span>
+    <div><strong>Unlocking the treasure trove: leveraging dry coral specimens for museum genomics</strong><p>First author · <em>Coral Reefs</em></p><a href="https://doi.org/10.1007/s00338-024-02525-5">Read the paper <span aria-hidden="true">→</span></a></div>
+  </div>
+  <div class="contribution">
+    <span class="contribution-year">2023</span>
+    <div><strong>Antibiotics reduce <em>Pocillopora</em> coral-associated bacteria diversity, decrease holobiont oxygen consumption, and activate immune gene expression</strong><p>First author · <em>Molecular Ecology</em></p><a href="https://doi.org/10.1111/mec.17049">Read the paper <span aria-hidden="true">→</span></a></div>
+  </div>
+</div>
 
-I am currently a Postdoctoral Fellow at the [National Human Genome Research Institute](https://www.genome.gov/) of the [National Institutes of Health](https://www.nih.gov/). My primary focus is on assembling and annotating a reference genome for the marine hydrozoan *Podocoryna*. This colonial marine hydrozoan has a transparent body and rapid life cycle that allows studies of key biological processes including development, regeneration, and cell type differentiation.
+## Methods and research toolkit
 
+<div class="skill-list">
+  <span>Comparative genomics</span><span>Genome assembly & annotation</span><span>Phylogenomics</span><span>Single-cell RNA-seq</span><span>Transcriptomics</span><span>Host–microbe systems</span><span>Museum genomics</span><span>Bioinformatics workflows</span>
+</div>
 
-![***Podocoryna*** **is an emerging model organism**. *Podocoryna* is a widespread hydrozoan with a complex life cycle that can help us to better understand the evolutionary origins of striated muscle tissues in cnidarians and bilaterians. Colonies of polyps are grown on microscope slides, and release medusae (jellyfish) that possess striated muscle tissues into the water column.](./images/podocoryna_life_cycle.JPG){width=800px align="center" style="margin: 5px 5px 5px 0"}
+I value collaborative, reproducible research that connects robust computational analyses with biological questions and conservation needs. My work has taken me from molecular laboratories and museum collections to coral reefs in the eastern tropical Pacific.
 
-------------------------------------------------------------------------
-
-### Research Interests
-
-I am a marine molecular biologist that is interested the evolution and development of marine invertebrates, especially cnidarians.
-I am broadly interested in the genomic processes involved in the diversification of marine species and the cell biology of development and regeneration in early-diverging animals. At the intersection of these fields I am specifically interested in how microbial symbiosis affects the ecology, evolution and diversification of marine invertebrates. 
-
-To learn more, please visit the  [Projects](https://michaeltconnelly.github.io/projects.html) page.
-
-***
-
-![***Pocillopora*** **corals are diverse.** Different *Pocillopora* color morphs at Isla San Pedro in Isla San Pedro in Las Perlas, Panamá.](./images/Pocillopora_SanPedro_Morphs.JPG){width=800px align="center" style="margin: 5px 5px 5px 0"}
-
-
+<div class="closing-cta">
+  <div><h2>Explore my work</h2><p>Browse research projects, read the publication record, or get in touch about research and collaboration.</p></div>
+  <div class="cta-links"><a href="./projects.html">Research projects</a><a href="./publications.html">All publications</a><a href="./contact.html">Contact</a></div>
+</div>

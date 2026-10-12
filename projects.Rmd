@@ -1,62 +1,76 @@
 ---
 title: "Research Projects"
-output:  
-  html_document:  
-    toc: true  
-    toc_float: true  
+output:
+  html_document:
+    toc: true
+    toc_float: true
 ---
-<style type="text/css">
 
-body, td {
-   font-size: 16px;
-}
-</style>
-***
+<p class="page-lede">My research uses comparative and population genomics, transcriptomics, and microbial ecology to investigate the evolution of animal cells, coral biodiversity, and host–microbe relationships.</p>
 
-### NHGRI Postdoc Fellowship
-My current research at the [National Institutes of Health (NIH)](https://www.nih.gov/) in the [National Human Genome Research Institute (NHGRI)](https://www.genome.gov/) is working to assemble, annotate, and analyze the reference genome for the hydrozoan [*Podocoryna americana*](https://www.marinespecies.org/aphia.php?p=taxdetails&id=731064), an emerging model for studies of striated muscle evolution and regeneration. In parallel, I am working to create a single-cell atlas of all the cell types present across the different *Podocoryna* life stages.
+## <span id="podocoryna"></span>Cell-type evolution and genomic resources in *Podocoryna*
 
-![***Podocoryna* is an emerging cnidarian model species.** The availability of a chromosome-scale reference genome and single-cell atlas will greatly benefit studies of cell type evolution and differentiation.](./images/podocoryna_genomic_resources.JPG)
+<p class="eyebrow">Current research · NIH / NHGRI</p>
 
-***  
+At the National Human Genome Research Institute, I study the colonial hydrozoan *Podocoryna americana*, an emerging model for understanding regeneration, cell differentiation, and the evolution of specialized tissues. This work combines reference-genome development with single-cell RNA sequencing across life stages to characterize cellular diversity and investigate the evolutionary origins of tissues such as striated muscle.
 
-### Smithsonian Biodiversity Genomics Fellowship
+<div class="project-image">
+  <img src="./images/podocoryna_genomic_resources.JPG" alt="Genomic resources and research overview for Podocoryna" />
+  <p class="image-caption">Genome resources and a single-cell atlas can support comparative studies of cnidarian cell types and tissue evolution.</p>
+</div>
 
-I am especially interested in how these host-microbe interactions affect the ecology, evolution, and biodiversity of tropical coral reef and other marine ecosystems. In particular, I am fascinated by scleractinian corals in the genus *Pocillopora* because of their ecological importance, large geographic distribution, and complex microbial symbioses. Another aim of my research is to use genomics to resolve the systematics of this important coral genus, and apply metagenomics to assess signatures of host-microbe coevolution among *Pocillopora* corals and their associated symbiont communities. 
+**Questions and approaches**
+- How are cell types distributed across the *Podocoryna* life cycle?
+- What can comparative genomics reveal about the evolution of muscle and other specialized cell types?
+- How can genome annotation and single-cell transcriptomics provide a reusable foundation for cnidarian research?
 
-My previous postdoctoral research applied genomics to delimit *Pocillopora* coral species and re-assess the morphology-based taxonomy for this important and widespread coral genus, focusing on the eastern tropical Pacific (ETP). I am continuing to work with teams at the [National Museum of Natural History (NMNH)](https://naturalhistory.si.edu/) in the [Invertebrate Zoology (IZ)](https://naturalhistory.si.edu/research/invertebrate-zoology) department's [Coral Lab](https://naturalhistory.si.edu/research/invertebrate-zoology/research/quattrini-lab) and the [Smithsonian Tropical Research Institute (STRI)](https://stri.si.edu/).
+**Methods:** genome assembly and annotation, comparative genomics, single-cell RNA-seq, differential expression, gene ontology enrichment, and orthology-based analyses.
 
-![**Smithsonian research facilities at STRI and NMNH.** The STRI Naos Island Marine Lab grants access to coral monitoring sites in the eastern Pacific, and the NMNH IZ department has an immense specimen collection and cutting-edge molecular laboratories.](./images/SI_platform.JPG)
+## <span id="coral-diversity"></span>Hidden species diversity in eastern Pacific *Pocillopora* corals
 
-The Smithsonian's research platform in Panamá and Washington are key for this project. The [Naos Marine & Molecular Laboratories](https://stri.si.edu/facility/naos) are an excellent launch point to several field sites in the ETP that span a gradient of seasonal wind-driven upwelling from Isla Coiba in the Gulf of Chiriquí to Isla Saboga in the Gulf of Panamá. Field-collected *Pocillopora* coral samples from these sites have been transported to the NMNH for genomic and morphometric species delimitation analyses and comparisons to historical *Pocillopora* specimens in the IZ department collections. 
+<p class="eyebrow">Smithsonian Biodiversity Genomics Fellowship · 2021–2023</p>
 
-![**SI BioG project summary.** (**A**) The *Pocillopora* coral holobiont comprises the coral host and symbiotic algae and bacteria, some of which are transmitted between host generations. (**B**) Phylosymbiosis occurs when the relationships between symbiotic microbial communities recapitulate host phylogenetic relationships. 
-(**C**) Coral branch morphology and corallite microstructure for three *Pocillopora* species last revised in Schmidt-Roach et al. (2014), correspondence between genetics and morphological characters has not been assessed for the eight morphospecies that are present in Panamá. (**D**) Location of STRI coral monitoring sites in the Gulf of Chiriquí and Gulf of Panamá. (**E**) Locations and numbers of preserved Pocillopora coral specimens in the NMNH Invertebrate Zoology collections. 
-](./images/Figure1_SIFP.JPG)
+I investigated species boundaries and evolutionary relationships in *Pocillopora*, a widespread and ecologically important genus of reef-building corals. Across the eastern tropical Pacific, genomic data can reveal lineages that are difficult to distinguish by morphology alone. This research integrates phylogenomics, field collections, morphometrics, and comparisons with historical museum material to improve understanding of coral biodiversity.
 
-My hope is that an improved taxonomy of these critical coral species will be a valuable resource for scientists studying coral reef species distributions and interactions in marginal ecosystems and will reveal the fundamental co-evolutionary processes that help generate coral species diversity in other eco-regions.
+<div class="project-image">
+  <img src="./images/Pocillopora_SanPedro_Morphs.JPG" alt="Variation in Pocillopora coral forms from Isla San Pedro, Panama" />
+  <p class="image-caption">Morphological variation in *Pocillopora* highlights the challenge of connecting visible form with evolutionary lineages.</p>
+</div>
 
-***  
+My first-author study in *Genome Biology and Evolution* used genome skimming to illuminate hidden species diversity and Symbiodiniaceae associations in east Pacific *Pocillopora*. Related museum-genomics work demonstrated the value of dry coral specimens for recovering genomic data from historical collections.
 
-### Ph.D. research on *Pocillopora* host-microbe interactions
-I completed my Ph.D. at the University of Miami [Rosenstiel School of Marine and Atmospheric Science](https://www.rsmas.miami.edu/) (RSMAS), working in the [Cnidarian Immunity Laboratory](https://cnidimmunitylab.com/) with Dr. Nikki Traylor-Knowles as my Ph.D. advisor. 
+**Questions and approaches**
+- Where do genomic species boundaries agree with—or challenge—morphology-based taxonomy?
+- How can museum specimens extend the geographic and historical reach of biodiversity genomics?
+- How are coral host lineages associated with their symbiotic algae?
 
-During my Ph.D. I completed an NSF East Asia and Pacific Summer Institutes (EAPSI) fellowship in Taiwan, where I studied *Pocillopora* coral gene expression and bacteria community shifts in response to experimental treatments with bacteria lipopolysaccharide, antibiotics, and heat stress that were intended to disrupt normal host-bacteria interactions. The publications that resulted from these experiments can be found [here](https://doi.org/10.1016/j.dci.2020.103717) and [here](https://doi.org/10.3389/fmars.2021.814124).
+**Methods:** genome skimming, phylogenomic analysis, species delimitation, museum genomics, morphometrics, and symbiosis analysis.
 
-![**NSF EAPSI corals and sites.** *Pocillopora acuta* colonies at Outlet reef (top) and Wanglitung reef (bottom) near Kenting, Taiwan.](./images/EAPSI_Corals_Sites.JPG)
+## <span id="host-microbes"></span>Coral host–microbe interactions, immunity, and physiology
 
-I also was involved in projects funded by the Florida Department of Environmental Protection that investigated the gene expression of diverse Caribbean coral species in response to infection with the Stony Coral Tissue Loss Disease (SCTLD), the results of which are published [here](https://doi.org/10.3389/fmars.2021.681563).
+<p class="eyebrow">Ph.D. research · University of Miami</p>
 
-***  
+For my Ph.D. in the Cnidarian Immunity Laboratory at the University of Miami, I studied how bacterial communities interact with *Pocillopora* coral hosts and influence physiology and immune activity. This work included experiments involving antibiotics, bacterial lipopolysaccharide, and heat stress, as well as transcriptomic analyses of coral responses to disease-related challenges.
 
-### Other projects
-* Physiology and transcriptome responses of *Pocillopora* corals to antibiotic microbiome suppression - [GitHub Link](https://github.com/michaeltconnelly/coral_antibiotics_physiology)
-* Meta-analysis of *Pocillopora* RNAseq datasets in the NCBI SRA - [GitHub Link](https://github.com/michaeltconnelly/MetaPocillopora)
-* Genomic species delimitation of *Pocillopora* corals in the eastern tropical Pacific of Panama
-* Coral conservation genetics for reef restoration workshop, in partnership with [Raising Coral Costa Rica](https://www.raisingcoral.org/) - [Course Website](https://michaeltconnelly.github.io/RaisingCoral_CoralGeneticsWorkshop_2022/)
+<div class="project-image">
+  <img src="./images/Connelly2023.PNG" alt="Figure from research on antibiotics, coral-associated bacteria, physiology, and immune gene expression" />
+  <p class="image-caption">Experimental and transcriptomic approaches help connect microbial community changes with coral host responses.</p>
+</div>
 
-***
+**Questions and approaches**
+- How do perturbations to bacterial communities affect coral physiology and immune gene expression?
+- Do coral genotypes differ in their responses to microbial signals?
+- How can host and microbiome data be combined to better understand coral health?
 
-![***Pocillopora*** **corals are ecosystem engineers in the ETP**. A single large *Pocillopora* colony growing on Isla Champion in the Galápagos Islands, Ecuador.](./images/Champion_Green_Pocillopora.JPG){width=800px align="center" style="margin: 5px 5px 5px 0"}
+**Methods:** experimental microbiome manipulation, microbial community analysis, RNA-seq, differential gene expression, and host–microbe interaction research.
 
+## Additional projects and collaborations
 
+- **Coral conservation genetics:** collaborated on training and workshop activities focused on coral genetics for restoration and conservation with [Raising Coral Costa Rica](https://www.raisingcoral.org/). [Workshop website](https://michaeltconnelly.github.io/RaisingCoral_CoralGeneticsWorkshop_2022/).
+- **Coral antibiotics physiology:** analysis of physiological and transcriptomic responses to microbiome suppression. [GitHub repository](https://github.com/michaeltconnelly/coral_antibiotics_physiology).
+- **Meta-analysis of *Pocillopora* RNA-seq datasets:** [GitHub repository](https://github.com/michaeltconnelly/MetaPocillopora).
+- **Stony Coral Tissue Loss Disease:** collaborative transcriptomic research on coral responses to disease transmission. [Publication](https://doi.org/10.3389/fmars.2021.681563).
+
+## Research outputs
+
+For the complete publication record, see [Publications](./publications.html). For conference talks and public-facing presentations, see [Presentations](./presentations.html).

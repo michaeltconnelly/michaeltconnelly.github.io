@@ -1,22 +1,17 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 ---
 
-```{r, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
-if (!require(librarian)){
-  install.packages("librarian")
-  library(librarian)
-}
-shelf(
-  htmltools, mitchelloharawild/icons)
-# icons::download_fontawesome()
-# devtools::load_all("~/github/bbest/icons")
-# icons::download_octicons()
-library(rmarkdown)
-```
+<p class="page-lede">A concise overview of my research experience, publications, methods, and scientific service.</p>
 
-```{r, echo=FALSE, out.width="100%", out.height="1000px"}
-knitr::include_graphics("./pdfs/MichaelConnelly_CV.pdf")
-```
+<div class="cv-download">
+  <div>
+    <h2>Michael T. Connelly, Ph.D.</h2>
+    <p>Download the PDF for the complete, formatted curriculum vitae.</p>
+  </div>
+  <a class="button-link" href="./pdfs/MichaelConnelly_CV.pdf" target="_blank" rel="noopener">Download CV (PDF)</a>
+</div>
+
+<p class="small-note">If the embedded document does not display in your browser, use the download link above.</p>
+
+<iframe class="cv-frame" src="./pdfs/MichaelConnelly_CV.pdf" title="Michael T. Connelly curriculum vitae" loading="lazy"></iframe>

@@ -102,3 +102,14 @@ img { max-width: 100%; height: auto; }
   html { scroll-behavior: auto; }
   *, *::before, *::after { transition-duration: .01ms !important; animation-duration: .01ms !important; }
 }
+
+.site-header { border-bottom: 1px solid var(--line); background: #fff; }
+.site-nav { max-width: 1140px; margin: 0 auto; padding: .85rem 1.25rem; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .7rem 1.5rem; }
+.site-brand { color: var(--ink); font-weight: 800; text-decoration: none; letter-spacing: -.02em; }
+.site-nav-links { display: flex; flex-wrap: wrap; gap: .4rem 1.1rem; align-items: center; }
+.site-nav-links a { color: var(--muted); font-size: .9rem; font-weight: 700; text-decoration: none; }
+.site-nav-links a:hover, .site-nav-links a:focus { color: var(--teal); }
+.site-main { max-width: 1140px; margin: 0 auto; padding: 0 1.25rem 4rem; }
+.site-footer { border-top: 1px solid var(--line); color: var(--muted); font-size: .9rem; padding: 1.6rem 1.25rem; text-align: center; }
+.site-main > h1:first-child { margin-top: 2rem; }
+@media (max-width: 767px) { .site-nav { align-items: flex-start; flex-direction: column; } .site-nav-links { gap: .5rem 1rem; } }

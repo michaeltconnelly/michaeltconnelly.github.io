@@ -1,34 +1,8 @@
 name: "Michael T. Connelly"
-navbar:
-  title: "Michael T. Connelly, Ph.D."
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "Research"
-      menu:
-        - text: "Research Projects"
-          href: projects.html
-        - text: "Presentations"
-          href: presentations.html
-        - text: "Project Updates"
-          href: projectupdates.html
-    - text: "Publications"
-      href: publications.html
-    - text: "CV"
-      href: cv.html
-    - text: "Contact"
-      href: contact.html
-  right:
-    - icon: fa-github fa-lg
-      href: https://github.com/michaeltconnelly
-    - icon: fa-brands fa-bluesky fa-lg
-      href: https://bsky.app/profile/michaeltconnelly.bsky.social
-    - icon: fa-brands fa-google-scholar fa-lg
-      href: https://scholar.google.com/citations?user=OjTalQQAAAAJ&hl=en
 output_dir: "."
 output:
   html_document:
-    theme: "flatly"
-    css: "styles.css"
+    template: "template.html"
+    self_contained: false
     includes:
       in_header: google_analytics_script.html

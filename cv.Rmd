@@ -5,11 +5,11 @@ title: "Curriculum Vitae"
 <p class="page-lede">A concise overview of my research experience, publications, methods, and scientific service.</p>
 
 <div class="cv-download">
-  <div>
-    <h2>Michael T. Connelly, Ph.D.</h2>
-    <p>Download the PDF for the complete, formatted curriculum vitae.</p>
-  </div>
-  <a class="button-link" href="./pdfs/MichaelConnelly_CV.pdf" target="_blank" rel="noopener">Download CV (PDF)</a>
+<div>
+<h2>Michael T. Connelly, Ph.D.</h2>
+<p>Download the PDF for the complete, formatted curriculum vitae.</p>
+</div>
+<a class="button-link" href="./pdfs/MichaelConnelly_CV.pdf" target="_blank" rel="noopener">Download CV (PDF)</a>
 </div>
 
 <p class="small-note">If the embedded document does not display in your browser, use the download link above.</p>

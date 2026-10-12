@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Michael T. Connelly, evolutionary biologist working in comparative genomics, cnidarian cell-type evolution, coral biodiversity, and marine conservation.">
+  <title>$if(title)$$title$ | Michael T. Connelly$else$Michael T. Connelly$endif$</title>
+  <link rel="stylesheet" href="./styles.css">
+  $for(header-includes)$
+  $header-includes$
+  $endfor$
+</head>
+<body>
+  <header class="site-header">
+    <nav class="site-nav" aria-label="Main navigation">
+      <a class="site-brand" href="./index.html">Michael T. Connelly, Ph.D.</a>
+      <div class="site-nav-links">
+        <a href="./index.html">Home</a>
+        <a href="./projects.html">Research</a>
+        <a href="./publications.html">Publications</a>
+        <a href="./cv.html">CV</a>
+        <a href="./presentations.html">Presentations</a>
+        <a href="./contact.html">Contact</a>
+        <a href="https://github.com/michaeltconnelly" rel="me">GitHub</a>
+        <a href="https://bsky.app/profile/michaeltconnelly.bsky.social" rel="me">Bluesky</a>
+        <a href="https://scholar.google.com/citations?user=OjTalQQAAAAJ&amp;hl=en">Google Scholar</a>
+      </div>
+    </nav>
+  </header>
+  <main class="site-main">
+$body$
+  </main>
+  <footer class="site-footer">Michael T. Connelly, Ph.D. · Evolutionary biology, genomics, and marine biodiversity · <a href="./contact.html">Contact</a></footer>
+</body>
+</html>

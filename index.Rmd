@@ -19,13 +19,13 @@ title: "Michael T. Connelly, Ph.D."
 
 <div class="section-intro">
 <p class="eyebrow">Research overview</p>
-<h2>Connecting evolutionary questions with genomic evidence</h2>
-<p>My research combines comparative genomics, phylogenomics, and single-cell transcriptomics to investigate how genomes, cells, and symbioses shape animal diversity. I work primarily with cnidarians—jellyfish and corals—which offer powerful perspectives on the evolution of animal tissues, regeneration, immunity, and marine biodiversity.</p>
+<h2>Answering evolutionary questions with genomic evidence</h2>
+<p>My research combines comparative genomics, phylogenomics, and single-cell transcriptomics to investigate how genomes, cells, and symbioses shape animal diversity. I work primarily with cnidarians, such as jellyfish and corals, which offer powerful perspectives on the evolution of animal tissues, regeneration, immunity, and marine biodiversity.</p>
 </div>
 
 <div class="research-grid">
 <div class="research-card">
-<img src="./images/podocoryna_life_cycle.JPG" alt="Polyp colonies and medusae in the Podocoryna life cycle" />
+<img src="./images/medusa_011.JPG" alt="Polyp colonies and medusae in the Podocoryna life cycle" />
 <div class="research-card-body">
 <p class="card-kicker">Cell-type evolution</p>
 <h3>How did animal cells and tissues evolve?</h3>
@@ -43,7 +43,7 @@ title: "Michael T. Connelly, Ph.D."
 </div>
 </div>
 <div class="research-card">
-<img src="./images/Connelly2023.PNG" alt="Research figure from work on coral-associated microbial communities" />
+<img src="./images/Hydroid_hermit.JPG" alt="Research figure from work on coral-associated microbial communities" />
 <div class="research-card-body">
 <p class="card-kicker">Host–microbe interactions</p>
 <h3>How do symbioses shape animal biology?</h3>

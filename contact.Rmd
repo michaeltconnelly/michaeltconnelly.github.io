@@ -1,27 +1,21 @@
 ---
 title: "Contact Information"
 ---
-<style type="text/css">
 
-body, td {
-   font-size: 16px;
-}
-</style>
-***
+## Get in touch
 
-Note: Gmail is preferred for general inquiries
+Email is the best way to reach me. Gmail is preferred for general inquiries.
 
-* Gmail:          michael.t.connelly01 (at) gmail (dot) com  
+- **Gmail:** michael.t.connelly01 (at) gmail (dot) com
+- **NIH:** connellym2 (at) nih (dot) gov
+- **Smithsonian:** connellym (at) si (dot) edu
 
-* NIH Email       connellym2 (at) nih (dot) gov
+## Find me online
 
-* SI Email:       connellym (at) si (dot) edu  
-
-        <a href="https://github.com/michaeltconnelly" rel="me">GitHub</a>
-        <a href="https://scholar.google.com/citations?user=OjTalQQAAAAJ&amp;hl=en">Google Scholar</a>
+- **[GitHub](https://github.com/michaeltconnelly)** — Explore my code, computational workflows, and research projects.
+- **[Bluesky](https://bsky.app/profile/michaeltconnelly.bsky.social)** — Follow research updates and conversations about evolutionary biology, genomics, and marine biodiversity.
+- **[Google Scholar](https://scholar.google.com/citations?user=OjTalQQAAAAJ&hl=en)** — Browse my publications and citation record.
 
 ***
 
 ![***Pocillopora* corals are widespread.** *Pocillopora* colonies growing in the lagoon at Concha y Perla, Isla Isabela, Galápagos.](./images/Pocillopora_Concha.JPG){width=800px align="center" style="margin: 5px 5px 5px 0"}
-
-

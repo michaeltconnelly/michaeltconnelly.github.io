@@ -1,9 +1,9 @@
 ---
 title: "Research Projects"
 output:
-  html_document:
-    toc: true
-    toc_float: true
+html_document:
+toc: true
+toc_float: true
 ---
 
 <p class="page-lede">My research uses comparative and population genomics, transcriptomics, and microbial ecology to investigate the evolution of animal cells, coral biodiversity, and host–microbe relationships.</p>
@@ -15,8 +15,8 @@ output:
 At the National Human Genome Research Institute, I study the colonial hydrozoan *Podocoryna americana*, an emerging model for understanding regeneration, cell differentiation, and the evolution of specialized tissues. This work combines reference-genome development with single-cell RNA sequencing across life stages to characterize cellular diversity and investigate the evolutionary origins of tissues such as striated muscle.
 
 <div class="project-image">
-  <img src="./images/podocoryna_genomic_resources.JPG" alt="Genomic resources and research overview for Podocoryna" />
-  <p class="image-caption">Genome resources and a single-cell atlas can support comparative studies of cnidarian cell types and tissue evolution.</p>
+<img src="./images/podocoryna_genomic_resources.JPG" alt="Genomic resources and research overview for Podocoryna" />
+<p class="image-caption">Genome resources and a single-cell atlas can support comparative studies of cnidarian cell types and tissue evolution.</p>
 </div>
 
 **Questions and approaches**
@@ -33,8 +33,8 @@ At the National Human Genome Research Institute, I study the colonial hydrozoan 
 I investigated species boundaries and evolutionary relationships in *Pocillopora*, a widespread and ecologically important genus of reef-building corals. Across the eastern tropical Pacific, genomic data can reveal lineages that are difficult to distinguish by morphology alone. This research integrates phylogenomics, field collections, morphometrics, and comparisons with historical museum material to improve understanding of coral biodiversity.
 
 <div class="project-image">
-  <img src="./images/Pocillopora_SanPedro_Morphs.JPG" alt="Variation in Pocillopora coral forms from Isla San Pedro, Panama" />
-  <p class="image-caption">Morphological variation in *Pocillopora* highlights the challenge of connecting visible form with evolutionary lineages.</p>
+<img src="./images/Pocillopora_SanPedro_Morphs.JPG" alt="Variation in Pocillopora coral forms from Isla San Pedro, Panama" />
+<p class="image-caption">Morphological variation in *Pocillopora* highlights the challenge of connecting visible form with evolutionary lineages.</p>
 </div>
 
 My first-author study in *Genome Biology and Evolution* used genome skimming to illuminate hidden species diversity and Symbiodiniaceae associations in east Pacific *Pocillopora*. Related museum-genomics work demonstrated the value of dry coral specimens for recovering genomic data from historical collections.
@@ -53,8 +53,8 @@ My first-author study in *Genome Biology and Evolution* used genome skimming to 
 For my Ph.D. in the Cnidarian Immunity Laboratory at the University of Miami, I studied how bacterial communities interact with *Pocillopora* coral hosts and influence physiology and immune activity. This work included experiments involving antibiotics, bacterial lipopolysaccharide, and heat stress, as well as transcriptomic analyses of coral responses to disease-related challenges.
 
 <div class="project-image">
-  <img src="./images/Connelly2023.PNG" alt="Figure from research on antibiotics, coral-associated bacteria, physiology, and immune gene expression" />
-  <p class="image-caption">Experimental and transcriptomic approaches help connect microbial community changes with coral host responses.</p>
+<img src="./images/Connelly2023.PNG" alt="Figure from research on antibiotics, coral-associated bacteria, physiology, and immune gene expression" />
+<p class="image-caption">Experimental and transcriptomic approaches help connect microbial community changes with coral host responses.</p>
 </div>
 
 **Questions and approaches**
@@ -66,11 +66,12 @@ For my Ph.D. in the Cnidarian Immunity Laboratory at the University of Miami, I 
 
 ## Additional projects and collaborations
 
-- **Coral conservation genetics:** collaborated on training and workshop activities focused on coral genetics for restoration and conservation with [Raising Coral Costa Rica](https://www.raisingcoral.org/). [Workshop website](https://michaeltconnelly.github.io/RaisingCoral_CoralGeneticsWorkshop_2022/).
-- **Coral antibiotics physiology:** analysis of physiological and transcriptomic responses to microbiome suppression. [GitHub repository](https://github.com/michaeltconnelly/coral_antibiotics_physiology).
-- **Meta-analysis of *Pocillopora* RNA-seq datasets:** [GitHub repository](https://github.com/michaeltconnelly/MetaPocillopora).
-- **Stony Coral Tissue Loss Disease:** collaborative transcriptomic research on coral responses to disease transmission. [Publication](https://doi.org/10.3389/fmars.2021.681563).
+- **Coral conservation genetics.** Developed and taught collaborative workshop sessions and led activities focused on coral genetics for restoration and conservation with [Raising Coral Costa Rica](https://www.raisingcoral.org/). [Workshop website](https://michaeltconnelly.github.io/RaisingCoral_CoralGeneticsWorkshop_2022/).
+
+- **Coral antibiotics physiology.** Completed analysis of *Pocillopora* corals' physiological and transcriptomic responses to microbiome suppression with broad-spectrum antibiotics. [GitHub repository](https://github.com/michaeltconnelly/coral_antibiotics_physiology).
+
+- **Stony Coral Tissue Loss Disease.** Coordinated collaborative workshop using transcriptomics to characterize coral responses to SCTLD disease transmission. Resulted in a peer-reviewed publication. [Publication](https://doi.org/10.3389/fmars.2021.681563).
 
 ## Research outputs
 
-For the complete publication record, see [Publications](./publications.html). For conference talks and public-facing presentations, see [Presentations](./presentations.html).
+For recordings of conference talks and public-facing presentations, see [Presentations](./presentations.html).
